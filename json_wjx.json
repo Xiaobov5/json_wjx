@@ -1,15 +1,15 @@
    [
         {
             key: "学院",
-            content: "管理学院"
+            content: "土木工程学院"
         },
         {
             key: "学号",
-            content: "20201101"
+            content: "2024200039"
         },
         {
             key: "姓名",
-            content: "张三"
+            content: "王晓波"
         },
         {
             key: "电话",
@@ -17,6 +17,6 @@
         }
         {
             key: "班级",
-            content: "结构2班"
+            content: "2024级硕士结构2班"
         }
     ]
